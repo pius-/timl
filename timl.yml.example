@@ -1,0 +1,4 @@
+jira_username: 'jira_username_here'
+jira_url: 'jira_url_here'
+jira_api_key: 'jira_api_key_here'
+db_path: 'db_path_here'
